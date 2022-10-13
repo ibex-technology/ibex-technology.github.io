@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ibex Labs - Web3
+title: Web3 Truly Decentralized
 subtitle: Crypto, DeFi, web3, dApp, NFT, Token, DAO, Blockchain, Solidity, EVM... Truly Decentralized.
 ---
 
