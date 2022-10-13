@@ -38,9 +38,27 @@ OpenIbex setups start at 3 containers and can scale up into a cluster, so that O
 
 Planned Release (Beta): November 2022
 
+![OpenIbex Stack](assets/img/openibex-overview.png)
+
+### Kubernetes Helms - For Web3 and Business
+#### Crypto Helms - Bring Web3 to Kubernetes
+The Ibex Crypto Helms allow us to serve our project customers with their own WebSocket gateways, IPFS and more. This further minimizes the dependence on third party gateways while not needing more time or expertise on the customers side.
+
 ![OpenIbex Stack](assets/img/ibex-k8s-crypto-stacks.png)
 
-### Kubernetes Helms - Decentralized Work.
+Public Release (Beta): November 2022
 
+#### Ibex Helms - Productivity for teams
+The Ibex Helms are a hollistic approach on productivity software for teams. It's completely opensource. Since Web3 teams are often freelancers or fluid setups, Ibex Helms can be configured to use Microsoft, Google, GitHub and in the future also wallet logins. A truly decentralized and open solution.
+
+![OpenIbex Stack](assets/img/ibex-k8s-oss-stacks.png)
 
 ## <a name="contact"></a>Contact Us
+
+E-Mail: (contact@ibex.host)[mailto:contact@ibex.host]
+
+Address:
+Ibex Labs AG
+c/o Office Services GmbH
+Baarerstrasse 11
+6300 Zug
