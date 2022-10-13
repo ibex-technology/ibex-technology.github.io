@@ -55,7 +55,7 @@ The Ibex Helms are a hollistic approach on productivity software for teams. It's
 
 ## <a name="contact"></a>Contact Us
 
-E-Mail: (contact@ibex.host)[mailto:contact@ibex.host]
+E-Mail: (mailto:contact@ibex.host)[contact@ibex.host]
 
 Address:
 Ibex Labs AG
