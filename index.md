@@ -58,7 +58,11 @@ The Ibex Helms are a hollistic approach on productivity software for teams. It's
 E-Mail: (mailto:contact@ibex.host)[contact@ibex.host]
 
 Address:
+
 Ibex Labs AG
+
 c/o Office Services GmbH
+
 Baarerstrasse 11
+
 6300 Zug
