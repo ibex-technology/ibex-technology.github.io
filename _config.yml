@@ -175,7 +175,7 @@ footer-hover-col: "#0085A1"
 # whether or not you want to allow users to opt out of tracking.
 matomo:
   site_id: "1"
-  uri: "https://stats.ibex.host"
+  uri: "stats.ibex.host"
   opt-out: true
 
 ####################
