@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Web3 Truly Decentralized
+title: Web3 Builder
 subtitle: Crypto, DeFi, web3, dApp, NFT, Token, DAO, Blockchain, Solidity, EVM... Truly Decentralized.
 full-width: true
 ---
 
 ## <a name="services"></a>Services - Web3 Builder
 Crypto & Blockchain Consulting: Tokenomics Design, Product Owner, Strategic Advisory, Product Management, Training, Software Engineering and more.
-
-We support your web3 project in various ways:
 
 - Smart contract development: Economic concept, game theory, solidity development.
 - Best practices for: NFT collections, token launches and DAO-communities
@@ -27,9 +25,12 @@ We support your web3 project in various ways:
 </details>
 
 ### Ibex DeFi Accounting
-Actionable accounting is a hard to do task for investors, businesses and user of decentralized finance alike. Ibex DeFi Accounting is a web3 application that scans your wallets and creates accounting records. So portfolio performance indicators are visible without further calculation. This includes i.e. lending protocol interest, periodic reports on staking revenue and more.
+<details><summary>Actionable accounting is a hard to do task for investors, businesses and user of decentralized finance alike. Ibex DeFi Accounting is a web3 application that scans your wallets and creates accounting records.</summary>
 
-Planned Release: End of 2022.
+<p>Portfolio performance indicators are visible without further calculation. This includes i.e. lending protocol interest, periodic reports on staking revenue and more.</p>
+
+<p>Planned Release: End of 2022.</p>
+</details>
 
 <hr/>
 ## <a name="opensource"></a>Opensource products
@@ -46,18 +47,22 @@ Planned Release (Beta): November 2022
 ![OpenIbex Stack](assets/img/openibex-overview.png)
 
 ### Kubernetes Helms - For Web3 and Business
+<details><summary>
 #### Crypto Helms - Bring Web3 to Kubernetes
-The Ibex Crypto Helms allow us to serve our project customers with their own WebSocket gateways, IPFS and more. This further minimizes the dependence on third party gateways while not needing more time or expertise on the customers side.
+</summary>
+<p>The Ibex Crypto Helms allow us to serve our project customers with their own WebSocket gateways, IPFS and more. This further minimizes the dependence on third party gateways while not needing more time or expertise on the customers side.</p>
 
 ![OpenIbex Stack](assets/img/ibex-k8s-crypto-stacks.png)
 
 Public Release (Beta): November 2022
-
+</details>
+<details><summary>
 #### Ibex Helms - Productivity for teams
-The Ibex Helms are a hollistic approach on productivity software for teams. It's completely opensource. Since Web3 teams are often freelancers or fluid setups, Ibex Helms can be configured to use Microsoft, Google, GitHub and in the future also wallet logins. A truly decentralized and open solution.
+</summary>
+<p>The Ibex Helms are a hollistic approach on productivity software for teams. It's completely opensource. Since Web3 teams are often freelancers or fluid setups, Ibex Helms can be configured to use Microsoft, Google, GitHub and in the future also wallet logins. A truly decentralized and open solution.</p>
 
 ![OpenIbex Stack](assets/img/ibex-k8s-oss-stacks.png)
-
+</details>
 <hr/>
 ## <a name="contact"></a>Contact Us
 
