@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Web3 Builder
+title: Building on Web3
 subtitle: Crypto, DeFi, web3, dApp, NFT, Token, DAO, Blockchain, Solidity, EVM... Truly Decentralized.
 full-width: true
 ---
@@ -9,7 +9,7 @@ full-width: true
 Crypto & Blockchain Consulting: Tokenomics Design, Product Owner, Strategic Advisory, Product Management, Training, Software Engineering and more.
 
 - Smart contract development: Economic concept, game theory, solidity development.
-- Best practices for: NFT collections, token launches and DAO-communities
+- Best practices for: NFT collections, token launches, governance and DAO-communities.
 - Product engineering: Product-market fit, value proposition, product owner.
 - Project management: Agile methodology, team sourcing.
 
@@ -17,7 +17,7 @@ Crypto & Blockchain Consulting: Tokenomics Design, Product Owner, Strategic Advi
 ## <a name="projects"></a>Projects & Customers
 
 ### Cultural Places - Oroundo Mobile GmbH
-<details></summary>Oroundo mobile operates the platform [Culturalplaces](https://www.culturalplaces.com) that sells tour guides and tickets to cultural venues like museums. The company wants to develop the platform towards a community for people that work in the cultural industry. The "cultural people" can find funding, collaboration partners and fans in the community.</summary>
+<details><summary>Oroundo mobile operates the platform [Culturalplaces](https://www.culturalplaces.com) that sells tour guides and tickets to cultural venues like museums. The company wants to develop the platform towards a community for people that work in the cultural industry. The "cultural people" can find funding, collaboration partners and fans in the community.</summary>
 
 <p>In the first stage of the product we launched a token ($CPTC) and a "StoreFront"-application that sells tickets, redeemable vouchers, art and media files as NFTs. In the second stage the platform will evolve into a DAO-governed community that is self-managing.</p>
 
@@ -47,22 +47,17 @@ Planned Release (Beta): November 2022
 ![OpenIbex Stack](assets/img/openibex-overview.png)
 
 ### Kubernetes Helms - Everything for Web3 Teams
-<details><summary>
-<h2>Crypto Helms - Bring Web3 to Kubernetes</h2>
-</summary>
+#### Crypto Helms - Bring Web3 to Kubernetes
 <p>The Ibex Crypto Helms allow us to serve our project customers with their own WebSocket gateways, IPFS and more. This further minimizes the dependence on third party gateways while not needing more time or expertise on the customers side.</p>
 
 ![OpenIbex Stack](assets/img/ibex-k8s-crypto-stacks.png)
 
 Public Release (Beta): November 2022
-</details>
-<details><summary>
-<h2>Ibex Helms - Productivity for teams</h2>
-</summary>
+
+#### Ibex Helms - Productivity for teams<
 <p>The Ibex Helms are a hollistic approach on productivity software for teams. It's completely opensource. Since Web3 teams are often freelancers or fluid setups, Ibex Helms can be configured to use Microsoft, Google, GitHub and in the future also wallet logins. A truly decentralized and open solution.</p>
 
 ![OpenIbex Stack](assets/img/ibex-k8s-oss-stacks.png)
-</details>
 <hr/>
 ## <a name="contact"></a>Follow & Contact
 
