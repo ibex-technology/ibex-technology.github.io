@@ -14,7 +14,8 @@ We support your web3 project in various ways:
 - Product engineering: Product-market fit, value proposition, product owner.
 - Project management: Agile methodology, team sourcing.
 
-## <a name="projects"></a>Our Projects And Customers
+<hr/>
+## <a name="projects"></a>Projects & Customers
 
 ### Cultural Places - Oroundo Mobile GmbH
 Oroundo mobile operates the platform [Culturalplaces](https://www.culturalplaces.com) that sells tour guides and tickets to cultural venues like museums. The company wants to develop the platform towards a community for people that work in the cultural industry. The "cultural people" can find funding, collaboration partners and fans in the community. 
@@ -28,13 +29,14 @@ Actionable accounting is a hard to do task for investors, businesses and user of
 
 Planned Release: End of 2022.
 
-## <a name="opensource"></a>Opensource - Our Contribution
-Truly decentralized web3: Crypto is opensource by design. Ibex Labs benefits greatly from this fact, and we are honored to give something back to the community in form of opensource projects and contributions. We are providing a complete set of software you need to start your web3 project or company. It works with every hyperscaler and frees your project from vendor locks.
+<hr/>
+## <a name="opensource"></a>Opensource products
+Truly decentralized web3: Crypto is opensource by design. Ibex Labs is providing a complete set of software you need to start your web3 project or company. It works with every hyperscaler and frees your project from vendor locks.
 
 ### OpenIbex Stack - Truly decentralized web3
 <details><summary>A stack for fast web3 application development. Multi-chain, data lifecycle, intelligent caching of blockchain events, API aggregation, and many standard patterns are already implemented in OpenIbex. It only takes a few minutes to start the stack in Kubernetes, and a few more to start your own project.</summary>
 
-OpenIbex setups start at 3 containers and can scale up into a cluster, so that OpenIbex helps you grow. The software framework of OpenIbex has three parts that can be used combined or as single blocks: Frontend, Intelligent Backend and Smartcontract Helpers.
+<p>OpenIbex setups start at 3 containers and can scale up into a cluster, so that OpenIbex helps you grow. The software framework of OpenIbex has three parts that can be used combined or as single blocks: Frontend, Intelligent Backend and Smartcontract Helpers.</p>
 
 Planned Release (Beta): November 2022
 </details>
