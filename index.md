@@ -2,6 +2,7 @@
 layout: page
 title: Web3 Truly Decentralized
 subtitle: Crypto, DeFi, web3, dApp, NFT, Token, DAO, Blockchain, Solidity, EVM... Truly Decentralized.
+full-width: true
 ---
 
 ## <a name="services"></a>Services - Web3 Builder
