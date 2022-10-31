@@ -4,10 +4,10 @@ title: Web3 Truly Decentralized
 subtitle: Crypto, DeFi, web3, dApp, NFT, Token, DAO, Blockchain, Solidity, EVM... Truly Decentralized.
 ---
 
-## <a name="services"></a>Services - We Bring Your Business On Chain
+## <a name="services"></a>Services - Web3 Builder
 Crypto & Blockchain Consulting: Tokenomics Design, Product Owner, Strategic Advisory, Product Management, Training, Software Engineering and more.
 
-We can support your web3 project in various ways:
+We support your web3 project in various ways:
 
 - Smart contract development: Economic concept, game theory, solidity development.
 - Best practices for: NFT collections, token launches and DAO-communities
@@ -32,11 +32,12 @@ Planned Release: End of 2022.
 Truly decentralized web3: Crypto is opensource by design. Ibex Labs benefits greatly from this fact, and we are honored to give something back to the community in form of opensource projects and contributions. We are providing a complete set of software you need to start your web3 project or company. It works with every hyperscaler and frees your project from vendor locks.
 
 ### OpenIbex Stack - Truly decentralized web3
-A stack for fast web3 application development. Multi-chain, data lifecycle, intelligent caching of blockchain events, API aggregation, and many standard patterns are already implemented in OpenIbex. It only takes a few minutes to start the stack in Kubernetes, and a few more to start your own project.
+<details><summary>A stack for fast web3 application development. Multi-chain, data lifecycle, intelligent caching of blockchain events, API aggregation, and many standard patterns are already implemented in OpenIbex. It only takes a few minutes to start the stack in Kubernetes, and a few more to start your own project.</summary>
 
 OpenIbex setups start at 3 containers and can scale up into a cluster, so that OpenIbex helps you grow. The software framework of OpenIbex has three parts that can be used combined or as single blocks: Frontend, Intelligent Backend and Smartcontract Helpers.
 
 Planned Release (Beta): November 2022
+</details>
 
 ![OpenIbex Stack](assets/img/openibex-overview.png)
 
@@ -55,7 +56,7 @@ The Ibex Helms are a hollistic approach on productivity software for teams. It's
 
 ## <a name="contact"></a>Contact Us
 
-E-Mail: [contact at ibex.host](mailto:contact@ibex.host)
+E-Mail: [office at ibex.host](mailto:office@ibex.host)
 
 Address:
 
