@@ -1,17 +1,19 @@
 ---
 layout: page
 title: Building on Web3
-subtitle: Crypto, DeFi, web3, dApp, NFT, Token, DAO, Blockchain, Solidity, EVM... Truly Decentralized.
+subtitle: All around crypto .
 full-width: true
 ---
 
-## <a name="services"></a>Services - Web3 Builder
-Crypto & Blockchain Consulting: Tokenomics Design, Product Owner, Strategic Advisory, Product Management, Training, Software Engineering and more.
+## <a name="services"></a>Services - Web3 Engineering
+> Web3 concepts are open by default. This requires a different approach on application design and lifecycle. Ibex Labs can help you understand the platform and design applications.
 
 - Smart contract development: Economic concept, game theory, solidity development.
 - Best practices for: NFT collections, token launches, governance and DAO-communities.
 - Product engineering: Product-market fit, value proposition, product owner.
-- Project management: Agile methodology, team sourcing.
+- Project management: Agile methodology, Scrum product Owner
+
+Crypto & Blockchain Consulting: Tokenomics Design, Product Owner, Strategic Advisory, Product Management, Training, Software Engineering and more.
 
 <hr/>
 ## <a name="projects"></a>Projects & Customers
