@@ -46,9 +46,9 @@ Planned Release (Beta): November 2022
 
 ![OpenIbex Stack](assets/img/openibex-overview.png)
 
-### Kubernetes Helms - For Web3 and Business
+### Kubernetes Helms - Everything for Web3 Teams
 <details><summary>
-#### Crypto Helms - Bring Web3 to Kubernetes
+<h2>Crypto Helms - Bring Web3 to Kubernetes</h2>
 </summary>
 <p>The Ibex Crypto Helms allow us to serve our project customers with their own WebSocket gateways, IPFS and more. This further minimizes the dependence on third party gateways while not needing more time or expertise on the customers side.</p>
 
@@ -57,14 +57,14 @@ Planned Release (Beta): November 2022
 Public Release (Beta): November 2022
 </details>
 <details><summary>
-#### Ibex Helms - Productivity for teams
+<h2>Ibex Helms - Productivity for teams</h2>
 </summary>
 <p>The Ibex Helms are a hollistic approach on productivity software for teams. It's completely opensource. Since Web3 teams are often freelancers or fluid setups, Ibex Helms can be configured to use Microsoft, Google, GitHub and in the future also wallet logins. A truly decentralized and open solution.</p>
 
 ![OpenIbex Stack](assets/img/ibex-k8s-oss-stacks.png)
 </details>
 <hr/>
-## <a name="contact"></a>Contact Us
+## <a name="contact"></a>Follow & Contact
 
 E-Mail: [office at ibex.host](mailto:office@ibex.host)
 
