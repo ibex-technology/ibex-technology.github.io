@@ -22,7 +22,6 @@ author: Ibex Labs AG
 navbar-links:
   Services: "#services"
   Projects: "#projects"
-  OpenSource: "#opensource"
   Contact: "#contact"
 
 ################
@@ -57,7 +56,7 @@ social-network-links:
   # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: ibex-labs
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -72,7 +71,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
+  discord: Ceuz2FenNG 
 #  kaggle: yourname
 #  hackerrank: yourname
 
