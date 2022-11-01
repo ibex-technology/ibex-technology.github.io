@@ -4,7 +4,11 @@ title: Building on Web3
 subtitle: All around crypto .
 full-width: true
 ---
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+|![Our LinkedIn profile](assets/img/linkedin.png)|![Crypto](assets/img/twitter.png)|![Code on GitHub](assets/img/github.png)|![Connect](assets/img/discord.png)|
+| About Web3 | News | Open Source | Connect |
 
+<hr/>
 ## <a name="services"></a>Services - Web3 Engineering
 > Web3 concepts are open by default. This requires a different approach on application design and lifecycle. Ibex Labs can help you understand the platform and design applications.
 
@@ -56,7 +60,7 @@ Planned Release (Beta): November 2022
 
 Public Release (Beta): November 2022
 
-#### Ibex Helms - Productivity for teams<
+#### Ibex Helms - Productivity for teams
 <p>The Ibex Helms are a hollistic approach on productivity software for teams. It's completely opensource. Since Web3 teams are often freelancers or fluid setups, Ibex Helms can be configured to use Microsoft, Google, GitHub and in the future also wallet logins. A truly decentralized and open solution.</p>
 
 ![OpenIbex Stack](assets/img/ibex-k8s-oss-stacks.png)
