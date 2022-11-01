@@ -5,7 +5,7 @@ subtitle: Full stack web3 R &amp; D.
 full-width: true
 ---
 <p align="center">
-[![Crypto reads on Linkedin](assets/img/linkedin.png)](https://www.linkedin.com/company/ibex-labs) &nbsp; [![Ibex Web3 News](assets/img/twitter.png)](https://twitter.com/ibex_technology) &nbsp; [![Crypto Solutions on GitHub](assets/img/github.png)](https://github.com/ibex-technology) &nbsp; [![Connect](assets/img/discord.png)](https://discord.gg/Ceuz2FenNG)
+<a href="https://www.linkedin.com/company/ibex-labs"><img alt="Crypto reads on Linkedin" src="assets/img/linkedin.png"/></a> &nbsp; <a href="https://twitter.com/ibex_technology"><img alt="Ibex Web3 News" src="assets/img/twitter.png"/></a> &nbsp; <a href="https://github.com/ibex-technology"><img alt="Crypto Solutions on GitHub" src="assets/img/github.png"/></a> &nbsp; <a href="https://discord.gg/Ceuz2FenNG"><img alt="Connect" src="assets/img/discord.png"/></a>
 </p>
 
 <hr/>
