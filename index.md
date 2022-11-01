@@ -25,9 +25,9 @@ full-width: true
 ### Cultural Places - Oroundo Mobile GmbH
 Oroundo mobile operates the platform [Culturalplaces](https://www.culturalplaces.com) that sells tour guides and tickets to cultural venues like museums. The company wants to develop the platform towards a community for people that work in the cultural industry. The "cultural people" can find funding, collaboration partners and fans in the community.
 
-<p>In the first stage of the product we launched a token ($CPTC) and a "StoreFront"-application that sells tickets, redeemable vouchers, art and media files as NFTs. In the second stage the platform will evolve into a DAO-governed community that is self-managing.</p>
+In the first stage of the product we launched a token ($CPTC) and a "StoreFront"-application that sells tickets, redeemable vouchers, art and media files as NFTs. In the second stage the platform will evolve into a DAO-governed community that is self-managing.
 
-<p>Project homepage & litepaper: [Culturalplaces Metaverse](https://www.culturalplaces.com/metaverse)</p>
+Project homepage & litepaper: [Culturalplaces Metaverse](https://www.culturalplaces.com/metaverse)
 
 ### Ibex DeFi Accounting
 Actionable accounting is a hard to do task for investors, businesses and user of decentralized finance alike. Ibex DeFi Accounting is a web3 application that scans your wallets and creates accounting records.
