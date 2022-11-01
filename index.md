@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Building on Web3
-subtitle: All around crypto .
+subtitle: Full stack web3 R &amp; D.
 full-width: true
 ---
-|:-----:|:-----:|:-----:|:-----:|:-----:|
-|![Our LinkedIn profile](assets/img/linkedin.png)|![Crypto](assets/img/twitter.png)|![Code on GitHub](assets/img/github.png)|![Connect](assets/img/discord.png)|
-| About Web3 | News | Open Source | Connect |
+
+![Crypto reads on Linkedin](assets/img/linkedin.png) &nbsp; ![Ibex Crypto News](assets/img/twitter.png) &nbsp; ![Crypto Solutions on GitHub](assets/img/github.png) &nbsp; ![Connect](assets/img/discord.png)
 
 <hr/>
 ## <a name="services"></a>Services - Web3 Engineering
@@ -15,7 +14,7 @@ full-width: true
 - Smart contract development: Economic concept, game theory, solidity development.
 - Best practices for: NFT collections, token launches, governance and DAO-communities.
 - Product engineering: Product-market fit, value proposition, product owner.
-- Project management: Agile methodology, Scrum product Owner
+- Project management: Agile methodology, Scrum product Owner.
 
 Crypto & Blockchain Consulting: Tokenomics Design, Product Owner, Strategic Advisory, Product Management, Training, Software Engineering and more.
 
