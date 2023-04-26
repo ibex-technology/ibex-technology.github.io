@@ -19,10 +19,10 @@ author: Ibex Labs AG
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
-  Services: "#services"
-  Projects: "#projects"
-  Contact: "#contact"
+navbar-links: {}
+#  Services: "#services"
+#  Projects: "#projects"
+#  Contact: "#contact"
 
 ################
 # --- Logo --- #
