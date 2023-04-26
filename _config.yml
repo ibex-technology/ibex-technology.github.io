@@ -251,6 +251,7 @@ highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
 
+favicon: /assets/img/favicon.png
 kramdown:
   input: GFM
 
