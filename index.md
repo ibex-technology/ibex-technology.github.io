@@ -13,13 +13,16 @@ full-width: true
 </p>
 
 <hr/>
-<h2>Contact</h2>
+<h2 align="center">Contact</h2>
 <p align="center">
 <strong>E-Mail: <a href="mailto:office@ibex.host">office at ibex.host</a></strong><br/>
+<strong>Discord: <a href="https://discord.gg/Ceuz2FenNG">https://discord.gg/Ceuz2FenNG</a></strong><br/>
+<strong>LinkedIn: <a href="https://www.linkedin.com/company/ibex-labs">https://www.linkedin.com/company/ibex-labs</a></strong><br/>
 <br/>
 <strong>Address:</strong><br/>
 Ibex Labs AG<br/>
 c/o Office Services GmbH<br/>
 Baarerstrasse 11<br/>
 6300 Zug
+Switzerland
 </p>
