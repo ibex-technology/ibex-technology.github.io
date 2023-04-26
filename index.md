@@ -4,7 +4,7 @@ title: Building on Web3
 subtitle: Consulting, Research and Code for Web3
 full-width: true
 description: "Our mission is to improve the adoption of Web3 technology in industry and commerce. Our OpenIbex Middleware, a flexible middleware layer for integrating Web3 technology into your business processes."
-keywords: "Web3, consulting, blockchain, solution design, OpenIbex Middleware, Token, ethereum, application, software engineering"
+tags: [Web3, consulting, blockchain, solution design, OpenIbex Middleware, Token, ethereum, application, software engineering]
 ---
 <p align="center">
 Ibex Labs is a Web3 consulting company that offers solution design and software engineering services. Our mission is to improve the adoption of Web3 technology in industries.
